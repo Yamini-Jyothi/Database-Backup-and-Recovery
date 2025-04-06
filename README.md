@@ -19,3 +19,13 @@ Database Recovery: To perform a database recovery, connect to your MySQL databas
 Verification: After completing the database recovery, it is essential to verify that the data has been restored correctly. To do this, execute a few queries to check the data integrity and consistency. For example, you can execute a SELECT statement to retrieve data from a table or use the CHECK TABLE statement to verify the table's integrity. By verifying the data, you can ensure that the database recovery was successful and that your data is safe and accessible.
 
 Conclusion: Performing a database backup and recovery is a critical process that ensures the safety and integrity of your data. By following the steps outlined in this description, you can create a backup of your database and restore it in case of data loss or corruption. Remember to verify the data after recovery to ensure that it has been restored correctly. Regular backups and recoveries can help prevent data loss and ensure business continuity.
+
+#Output of the Task
+
+![Image](https://github.com/user-attachments/assets/b9762ca6-ea06-4fcf-8253-d45845634087)
+
+![Image](https://github.com/user-attachments/assets/7be43bdc-6650-469b-97c7-38fb4c0f70be)
+
+![Image](https://github.com/user-attachments/assets/de52d9e7-0d0e-4859-b330-1e3555eaabc8)
+
+![Image](https://github.com/user-attachments/assets/a6247b7b-9d07-4fdf-a2fb-5c5e2e8a3f92)
